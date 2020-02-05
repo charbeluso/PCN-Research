@@ -11,6 +11,7 @@ I am working under the direction of Dr. Pratte to transfer current 2D experiment
 * Oculus Rift
 * MATLAB
 * Psychtoolbox
+* OpenGL
 
 ## About Me
 I am an undergraduate research assistant in the PCN lab. I am majoring in Computer Science and pursuing a minor in Cognitive Science because I am really interested in the mind and human-computer interaction.
