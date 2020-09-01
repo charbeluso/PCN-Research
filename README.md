@@ -1,4 +1,4 @@
-# Perceptual and Cognitive Neuroscience (PCN) Laboratory
+# Perception and Cognitive Neuroscience (PCN) Laboratory
 This repository hosts the virtual reality code I am creating for the Perception and Cognitive Neuroscience (PCN) Laboratory at Mississippi State University.
 
 "The PCN lab, led by Dr. Michael Pratte, is part of the Psychology Department and the Institute for Imaging and Analytical Technologies at Mississippi State University. We study human behavior and brain activity, in an effort to better understand how the human brain is so good at perceiving, remembering, and later recognizing information in the world."
