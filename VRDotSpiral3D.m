@@ -1,4 +1,4 @@
-function VRHMDDemo(stereoscopic, checkerboard, deviceindex)
+function VRDotSpiral3D(stereoscopic, checkerboard, deviceindex)
 
 % Clear the workspace
 clearvars;
